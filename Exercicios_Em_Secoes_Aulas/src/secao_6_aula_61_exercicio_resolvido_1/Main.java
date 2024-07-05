@@ -1,6 +1,5 @@
 package secao_6_aula_61_exercicio_resolvido_1;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
