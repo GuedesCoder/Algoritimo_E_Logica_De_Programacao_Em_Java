@@ -1,1 +1,1 @@
-# Algoritimo_E_Logicaca_De_Programacao_Em_Java
+# Algoritimo_E_Logica_De_Programacao_Em_Java
